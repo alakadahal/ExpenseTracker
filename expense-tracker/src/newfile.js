@@ -1,4 +1,0 @@
-<applet>
-    hi
-    
-</applet>
